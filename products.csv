@@ -1,0 +1,13 @@
+product_id,product_name,category,price,stock_quantity
+P001,Laptop,Electronics,450000,15
+P002,Wireless Mouse,Accessories,15000,50
+P003,Keyboard,Accessories,invalid,35
+P004,Monitor,Electronics,125000,20
+P005,USB Cable,Accessories,5000,
+P006,Headphones,Audio,25000,40
+P007,Office Chair,Furniture,-35000,10
+P008,Desk,Furniture,85000,8
+P009,Webcam,Electronics,30000,25
+P010,,Accessories,12000,30
+P003,Keyboard,Accessories,18000,35
+P011,Printer,Electronics,,5

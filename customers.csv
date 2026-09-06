@@ -1,0 +1,12 @@
+customer_id,name,email,phone,registration_date,city
+1001,John Doe,john.doe@email.com,08012345678,2025-01-15,Lagos
+1002,Amaka Okafor,amaka@email.com,08023456789,15/02/2025,Abuja
+1003,David Smith,,08034567890,2025/03/10,Port Harcourt
+1004,Sarah Williams,sarah@email.com,,04-12-2025,Lagos
+1005,Mike Johnson,mike@email.com,08056789012,2025-05-20,Ibadan
+1005,Mike Johnson,mike@email.com,08056789012,2025-05-20,Ibadan
+1006,  grace brown  ,grace@email.com,08067890123,2025-06-18,lagos
+1007,Daniel Ade,daniel@email.com,,2025-07-01,Abuja
+1008,,faith@email.com,08089012345,2025-08-12,Enugu
+1009,Peter James,peter@email.com,08090123456,2025-13-45,Lagos
+1010,Jane Adams,jane@email.com,08011223344,,Ibadan
